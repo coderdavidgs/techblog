@@ -1,0 +1,12 @@
+.register{
+    text-align: center;
+}
+
+.register p {
+    color: #000;
+}
+
+.error{
+    color: red;
+    text-transform: uppercase;
+}

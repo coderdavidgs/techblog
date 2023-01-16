@@ -1,0 +1,60 @@
+body{
+  background-color: #caf0f8;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica";
+}
+
+input:focus,
+textarea:focus{
+  outline: none;
+}
+
+a,
+nav button{
+  text-decoration: none;
+  background-color: transparent;
+  color: #fff;
+  transition: .2s;
+  font-size: 24px;
+}
+
+/* FORM STYLES */
+form{
+  max-width: 40%;
+  margin: 0 auto;
+}
+
+label{
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+label span{
+  margin-bottom: .3em;
+  font-weight: bold;
+  text-align: left;
+}
+
+input,
+textarea {
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #003566;
+  padding: .3em 0;
+  background-color: transparent;
+}
+
+.btn {
+  background-color: #003566;
+  color: #ffc300;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: bold;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  margin-top: 10px;
+}

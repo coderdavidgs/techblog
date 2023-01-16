@@ -1,0 +1,22 @@
+.about{
+    text-align: center;
+    width: 40%;
+    margin: 1em auto;
+    background-color: #000814;
+    color: #fff;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.about h2,
+.about p{
+    margin: 25px;
+}
+
+.about h2{
+    color: #ffd60a;
+}
+
+.about p{
+    font-size: 24px;
+}

@@ -1,0 +1,122 @@
+@media screen and (min-width: 1024px){
+    .dashboard{
+        width: 40%;
+        background-color: #000814;
+        margin: 1em auto;
+        padding: 3%;
+        color: #fff;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .link_dashboard{
+        font-size: 14px;
+        margin-top: 1em;
+        background-color: #fff;
+        display: block;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .dashboard_exclude{
+        font-size: 14px;
+        margin-top: 1em;
+        background-color: #FA8072;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .post{
+        margin-bottom: 1em;
+    }
+
+    .title{
+        color: #ffd60a;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .dashboard{
+        width: 50%;
+        background-color: #000814;
+        margin: 1em auto;
+        padding: 2%;
+        color: #fff;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .link_dashboard{
+        font-size: 14px;
+        margin-top: 1em;
+        display: block;
+        background-color: #fff;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .dashboard_exclude{
+        font-size: 14px;
+        margin-top: 1em;
+        background-color: #FA8072;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .post{
+        margin-bottom: 1em;
+    }
+
+    .title{
+        color: #ffd60a;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .dashboard{
+        width: 50%;
+        background-color: #000814;
+        margin: 1em auto;
+        padding: 2%;
+        color: #fff;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    .link_dashboard{
+        font-size: 14px;
+        margin-top: 1em;
+        display: block;
+        background-color: #fff;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .dashboard_exclude{
+        font-size: 14px;
+        margin-top: 1em;
+        background-color: #FA8072;
+        color: #000814;
+        padding: 5px;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+
+    .post{
+        margin-bottom: 1em;
+    }
+
+    .title{
+        color: #ffd60a;
+    }
+}

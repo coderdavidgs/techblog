@@ -1,0 +1,22 @@
+.post{
+    background-color: #000814;
+    width: 40%;
+    margin: 1em auto;
+    padding: 1em;
+    border-radius: 15px;
+    color: #fff;
+    text-align: justify;
+}
+
+.hpost{
+    color: #ffd60a;
+}
+
+.tagpost{
+    display: inline;
+    margin-right: 2em;
+}
+
+.image{
+    max-width: 80%;
+}

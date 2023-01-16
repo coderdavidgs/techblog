@@ -1,0 +1,13 @@
+.search{
+    background-color: #000814;
+    width: 500px;
+    margin: 1em auto;
+    padding: 2%;
+    border-radius: 10px;
+    color: #fff;
+    text-align: center;
+}
+
+.results{
+    color: #ffd60a;
+}
